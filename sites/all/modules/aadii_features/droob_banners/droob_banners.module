@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Banners feature.
+ */
+
+include_once('droob_banners.features.inc');
